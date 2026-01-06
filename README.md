@@ -1,2 +1,2 @@
 # ExercismBackup
-Backup of my solutions to Exercism exercises
+Backup of my solutions to Exercism exercises.
